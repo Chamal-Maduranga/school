@@ -1,4 +1,4 @@
-import { iconMap } from './icons';
+import { iconMap } from './Icons';
 
 /**
  * A dynamic icon component that renders an icon based on a name.
